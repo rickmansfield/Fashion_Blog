@@ -1,0 +1,43 @@
+HTML CSSResult
+p {
+  padding-left:50px;
+  padding-right:50px;
+  font-size:12;
+}
+#sara-profile{
+  background-color: rgb(75, 64, 64)
+}
+span {
+  -webkit-text-fill-color: White
+}
+span2 {
+  -webkit-text-fill-color: green
+}
+.header2-3{
+  border: 3px solid grey;
+  -webkit-border-radius:20px;
+    -moz-boarder-radius:20px;
+    border-radius:20px;
+  padding: 10px;
+}
+#RelatedContent {
+  Color:white;
+  Background:red;
+  Height: 20px;
+  Width: 114px;
+  padding:10px;
+  border:5px solid pink;
+  margin:20px;
+}
+#ContactDetails {
+  Background:brown;
+  Color:White;  
+  Height: 20px;
+  Width: 108px;
+  padding:5px;
+  border:5px solid purple;
+  margin:20px;
+}
+
+
+
